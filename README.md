@@ -19,3 +19,4 @@ Repositório de exemplo para a turma de qualidade de software
 - `git push --set-upstream origin <nome branch>` Envia a nova branch para o github (ou gitlab, ou bitbucket, ... origin)
 
 ## Comandos de Merge
+- `git merge <nome da branch a ser juntada>` Combina os commits da branch a ser junto na branch atual (normalmente, se junta na main)
