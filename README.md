@@ -12,3 +12,10 @@ Repositório de exemplo para a turma de qualidade de software
 
 ## Mais Comandos do Git (Médio)
 - `git add -A` Adiciona TODOS os arquivos que foram alterados ou criados para serem incluídos no próximo commit
+
+## Comandos de Branch
+- `git checkout -b <nome nova branch>` Cria uma nova branch local
+- `git checkout <nome da branch>` Troca a branch ativa (somente uma branch pode estar ativa por vez!)
+- `git push --set-upstream origin <nome branch>` Envia a nova branch para o github (ou gitlab, ou bitbucket, ... origin)
+
+## Comandos de Merge
