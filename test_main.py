@@ -14,3 +14,7 @@ def test_div():
 
 def teste_div_2():
     assert div(20, 10) == div(10, 5)
+
+def teste_abs():
+    # TODO: Aguardar o colega enviar a função abs
+    pass
