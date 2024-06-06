@@ -17,4 +17,9 @@ def teste_div_2():
 
 def teste_abs():
     # TODO: Aguardar o colega enviar a função abs
+    pass 
+
+def teste_neg():
+    #TODO: atualizar quando o outro colega 
+    # enviar a função neg
     pass
