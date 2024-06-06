@@ -18,3 +18,9 @@ def neg(a: int) -> int:
         return a
     else:
         return -a
+
+def abs(a: int) -> int:
+    if(a < 0):
+        return -a
+    else: 
+        return a
