@@ -11,3 +11,6 @@ def test_soma_sub():
 
 def test_div():
     assert div(10, 0) == None
+
+def teste_div_2():
+    assert div(20, 10) == div(10, 5)
