@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Arquivos que eu não gosto
+*.anderson
+
 # C extensions
 *.so
 
