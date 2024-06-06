@@ -14,3 +14,8 @@ def test_div():
 
 def teste_div_2():
     assert div(20, 10) == div(10, 5)
+
+def teste_neg():
+    #TODO: atualizar quando o outro colega 
+    # enviar a função neg
+    pass
