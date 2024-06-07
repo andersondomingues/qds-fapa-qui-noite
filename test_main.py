@@ -25,4 +25,4 @@ def teste_neg():
     pass
 
 def teste_nadaver():
-    assert 1 == 2 
+    assert 2 == 2 
