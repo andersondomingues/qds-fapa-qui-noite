@@ -22,3 +22,7 @@ Repositório de exemplo para a turma de qualidade de software
 
 ## Comandos de Merge
 - `git merge <nome da branch a ser juntada>` Combina os commits da branch a ser junto na branch atual (normalmente, se junta na main)
+
+## Como gerar a figurinha do pytest
+- `python -m pip install pytest` Instala o pytest
+- `python -m pytest --local-badge-output-dir badges/` Gera a figurinha com o número de testes que passou (verde se passou todos, cinza se passaram somente alguns)
