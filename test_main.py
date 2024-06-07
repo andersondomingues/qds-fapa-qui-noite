@@ -23,3 +23,6 @@ def teste_neg():
     #TODO: atualizar quando o outro colega 
     # enviar a função neg
     pass
+
+def teste_nadaver():
+    assert 1 == 2 
